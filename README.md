@@ -1,6 +1,5 @@
-# Readme.md
 # 💫 About Me:
-🔭 I’m currently working on Flutter Mobile App development.<br>🤝 I’m looking for help with experienced poeple on Flutter and Dart language.<br>🌱 I’m currently learning Flutter&Dart programming languages and SwiftUI.<br>💬 You can reach me via my gmail address to inform me about feedbacks of my repositories.<br>⚡ My gmail address: dogukan.bykc@gmail.com
+🔭 I’m currently working on Flutter Mobile App development.<br>🤝 I’m looking for help with experienced poeple on Flutter and Dart language.<br>🌱 I’m currently learning Flutter&Dart programming languages and SwiftUI.<br>💬 You can contact me with my gmail address to give me feedback about my repositories.<br>⚡ My gmail address: dogukan.bykc@gmail.com
 
 
 # 💻 Tech Stack:
